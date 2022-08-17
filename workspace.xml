@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c15cef28-ec78-4030-8545-100243576e44" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wZoQeKMUoQMmbbE2ydTZm4Rh6n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.stranica.html (1)">
+    <configuration name="stranica.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/stranica1/stranica.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="stranica.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/stranica1/stranica.html?_ij_reload" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.stranica.html (1)" />
+        <item itemvalue="JavaScript Debug.stranica.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c15cef28-ec78-4030-8545-100243576e44" name="Changes" comment="" />
+      <created>1628675457309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628675457309</updated>
+      <workItem from="1628675458527" duration="1782000" />
+      <workItem from="1629107609768" duration="3442000" />
+      <workItem from="1629371268089" duration="583000" />
+      <workItem from="1629373672107" duration="1977000" />
+      <workItem from="1629626573251" duration="289000" />
+      <workItem from="1629626974440" duration="284000" />
+      <workItem from="1629628554314" duration="405000" />
+      <workItem from="1629629228882" duration="168000" />
+      <workItem from="1629630047528" duration="1915000" />
+      <workItem from="1630488438313" duration="166000" />
+      <workItem from="1630488827268" duration="4406000" />
+      <workItem from="1630499401122" duration="3443000" />
+      <workItem from="1630574495014" duration="2386000" />
+      <workItem from="1631700037927" duration="920000" />
+      <workItem from="1632947943353" duration="288000" />
+      <workItem from="1632948378676" duration="33000" />
+      <workItem from="1632950856544" duration="114000" />
+      <workItem from="1633296617308" duration="182000" />
+      <workItem from="1633518136262" duration="588000" />
+      <workItem from="1633600572420" duration="41000" />
+      <workItem from="1633805899334" duration="64000" />
+      <workItem from="1633872717224" duration="145000" />
+      <workItem from="1634740443210" duration="1612000" />
+      <workItem from="1634913837614" duration="397000" />
+      <workItem from="1634920016312" duration="84000" />
+      <workItem from="1634920693860" duration="2763000" />
+      <workItem from="1635781544657" duration="408000" />
+      <workItem from="1635783676229" duration="737000" />
+      <workItem from="1638205549650" duration="2650000" />
+      <workItem from="1638221681438" duration="2320000" />
+      <workItem from="1638274540863" duration="439000" />
+      <workItem from="1638827408739" duration="4529000" />
+      <workItem from="1638863904347" duration="2005000" />
+      <workItem from="1638879090270" duration="2557000" />
+      <workItem from="1640647686978" duration="43000" />
+      <workItem from="1641639876365" duration="687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
